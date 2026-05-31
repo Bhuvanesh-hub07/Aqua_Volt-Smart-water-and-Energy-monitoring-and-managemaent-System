@@ -131,14 +131,20 @@ The AI model analyzes sensor data to detect abnormal conditions such as:
 
 Department of Electronics and Communication Engineering (ECE)
 
-### Team Roles
 
-- Team Leader & System Integrator
-- Embedded Systems Engineer
-- IoT & Cloud Developer
-- AI & Data Analyst
+### Bhuvanesh S
+- Project Lead & System Integrator
+- Embedded Systems and IoT Development
+
+### Aiswarya R S
+- IoT & Cloud Integration
+- AI/Data Analysis and Documentation
 
 ---
+
+## 🤝 Contributors
+
+This project was developed collaboratively as part of an innovation initiative focused on sustainable water and energy management using AI and IoT.
 
 ## 📷 Project Demonstration
 
